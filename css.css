@@ -1,0 +1,75 @@
+p {
+    position:absolute;
+    border:8px solid darkred;
+    background-color:rgb(146, 212, 190);
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+    margin-right:200px;
+    margin-left:200px;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:50px;
+    opacity:0.45;
+}
+
+p:hover {
+    opacity:1;
+    transition:0.5s;
+    background-color:rgb(114, 175, 155);
+    box-shadow: 0px 0px 10px 5px rgb(179, 5, 5);
+    cursor:pointer;
+}
+
+#a {
+top:245px;
+}
+#b {
+    top:450px;
+   }
+#c {
+        top:570px;
+    }
+#d {
+    top:680px;
+}
+#e {
+    top:800px;
+}
+#f {
+    top:900px;
+}
+#g {
+    top:1010px;
+}
+#h {
+    top:1100px;
+}
+#i {
+    top:1200px;
+}
+#j {
+    top:1300px;
+}
+#k {
+    top:1390px;
+}
+#l {
+    top:1500px;
+}
+#m {
+    top:1620px;
+}
+
+h1 {
+    text-align:center;
+    color:darkred;
+    text-shadow: 2px 2px 5px black;
+    font-size:100px;
+}
+
+body {
+    background-image: url("background2.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
